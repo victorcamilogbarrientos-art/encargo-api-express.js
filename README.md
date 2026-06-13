@@ -10,7 +10,7 @@ Requisitos e Instalación
 2. Abre una terminal dentro de la carpeta del proyecto (`primera_api_js`).
 3. Instala Express ejecuntando el comando:
    ´´´bash
-   npm install
+   npm install express
 para ejecutar el servidor:
 ´´´bash
 npm index.js
@@ -22,4 +22,10 @@ GET
 ---
 POST
 <img width="1009" height="864" alt="imagen" src="https://github.com/user-attachments/assets/7e5f6d46-d736-4ddc-aa65-ad8b192be3c4" />
+---
+PUT
+<img width="1008" height="870" alt="imagen" src="https://github.com/user-attachments/assets/0a1cb034-dd58-459e-abbd-99172569f016" />
+---
+DELETE
+<img width="1003" height="861" alt="imagen" src="https://github.com/user-attachments/assets/61eb0d1a-d7a8-46f4-85d9-3b89d21df252" />
 ---
