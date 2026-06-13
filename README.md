@@ -15,7 +15,9 @@ para ejecutar el servidor:
 ´´´bash
 npm index.js
 este comando iniciara el servidor mostrando este mensaje (Servidor escuchando en http://localhost:3000)
----
+Herramienta de Pruebas Postman
+Para interactuar con los endpoints de esta API y ver las respuestas JSON, se requiere un cliente HTTP. 
+* **Descarga:** Puedes descargar e instalar **Postman** de forma gratuita desde su sitio oficial.
 registro de pruebas 
 GET
 <img width="1024" height="897" alt="imagen" src="https://github.com/user-attachments/assets/6b52c659-5957-4bda-a872-3294cd229bf7" />
