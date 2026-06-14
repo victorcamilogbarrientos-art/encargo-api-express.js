@@ -11,11 +11,11 @@ Requisitos e Instalación
 3. Instala Express ejecuntando el comando:
    ´´´bash
    npm install express
-para ejecutar el servidor:
+4. Ejecutar el servidor:
 ´´´bash
 npm index.js
 este comando iniciara el servidor mostrando este mensaje (Servidor escuchando en http://localhost:3000)
-Herramienta de Pruebas Postman
+5. Herramienta de Pruebas Postman
 Para interactuar con los endpoints de esta API y ver las respuestas JSON, se requiere un cliente HTTP. 
 * **Descarga:** Puedes descargar e instalar **Postman** de forma gratuita desde su sitio oficial.
 registro de pruebas 
